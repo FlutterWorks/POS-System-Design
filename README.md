@@ -1,6 +1,6 @@
 # POS System Design - Flutter UI
 
-Flutter をりようした POS システムデザインのUIのみ。
+Flutter を利用した POS システムデザインのUI。
 
 元デザインは以下のものを利用。 
 
